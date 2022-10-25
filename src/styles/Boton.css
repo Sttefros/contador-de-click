@@ -1,0 +1,20 @@
+button{
+    width: 250px;
+    height: 80px;
+    margin: 5px;
+    font-size: 3.0rem;
+    cursor: pointer;
+    border-radius: 35px;
+    border-style:dashed;
+}
+
+button:hover{
+    background-color: rgba(70, 15, 15, 0.733);
+}
+
+.click-mas{
+    background-color: rgb(15, 70, 20);
+}
+.click-menos{
+    background-color: rgb(70, 15, 15);
+}
